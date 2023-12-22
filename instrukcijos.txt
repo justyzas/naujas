@@ -2,4 +2,9 @@ Sveiki visi!
 . . . 
 code ?
 . . .
-Not anymore!
+
+# Fetch changes from all remotes
+git fetch --all
+
+# Merge changes from all remote branches into the current local branch
+git pull --all
