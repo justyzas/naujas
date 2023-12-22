@@ -1,1 +1,1 @@
-let kintamasis;
+alert('develop');
