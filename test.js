@@ -1,1 +1,3 @@
 let liepa;
+
+const rugpjutis = ". . .";
