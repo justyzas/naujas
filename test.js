@@ -1,1 +1,3 @@
-alert('develop');
+let liepa;
+
+const rugpjutis = ". . .";
