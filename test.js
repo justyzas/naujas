@@ -1,1 +1,1 @@
-let kintamasis;
+let liepa;
